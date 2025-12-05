@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Night Pride",
+  "base_artist": "プリマステラ[Akari(CV.内田秀)&Hikari(CV.船戸ゆり絵)]",
+  "createdAt": "2025-12-05T01:17:29.902604Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Night Pride",
+      "artist": "プリマステラ",
+      "has_synced": false,
+      "path": "select/pl_01_Night_Pride_プリマステラ.txt"
+    }
+  ]
+}
